@@ -101,7 +101,3 @@ Open [cnn_cancer_detector.ipynb](cnn_cancer_detector.ipynb) in Jupyter Notebook 
 - Labels may contain noise and should be verified against reliable clinical ground truth.
 - The binary target does not represent the full range of lesion subtypes and diagnoses.
 - Future improvements could include Grad-CAM explanations, cross-validation, stronger augmentation, additional backbones, and a carefully validated demonstration API.
-
-## License
-
-No license is currently specified for this project or its dataset. Check the dataset provider's terms before redistributing data or trained models.
